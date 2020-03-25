@@ -1,8 +1,4 @@
 test
-<<<<<<< HEAD
 
-jgfkufky
+more text
 
-ff,h
-=======
->>>>>>> parent of c90c260... Changed
