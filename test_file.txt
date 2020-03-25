@@ -1,0 +1,8 @@
+test
+<<<<<<< HEAD
+
+jgfkufky
+
+ff,h
+=======
+>>>>>>> parent of c90c260... Changed
